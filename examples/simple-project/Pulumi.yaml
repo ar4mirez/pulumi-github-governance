@@ -1,0 +1,3 @@
+name: simple-project
+description: A minimal Go Pulumi program to provision a GitHub repository
+runtime: go
